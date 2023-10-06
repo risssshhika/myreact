@@ -5,7 +5,7 @@ export default function About() {
   return (
     <>
     <Nav/>
-    <div>About</div>
+    <div>Live on Vercel</div>
     <Profile/>
     </>
   )
